@@ -1,4 +1,4 @@
-#X11 Borderless Window
+X11 Borderless Window
 ================
 
 This program is a simple example of creating a borderless and resizable window in x11  (similar to Steam and VSCode).
